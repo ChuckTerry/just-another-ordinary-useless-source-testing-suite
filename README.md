@@ -1,2 +1,2 @@
-# just-another-ordinary-useless-source-testing-suite
-Jaousts - The Vanilla Test Suite for JavaScript;  Because you can never have too many
+**J**ust your **O**rdinary **U**seless **S**ource **T**esting **S**uite
+Jousts - The Vanilla Test Suite for JavaScript;  Because you can never have too many.
